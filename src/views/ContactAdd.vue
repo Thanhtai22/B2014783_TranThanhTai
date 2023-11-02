@@ -1,5 +1,5 @@
 <template>
-	<h1>add</h1>
+	<h1>Thêm sản phẩm</h1>
 	<ContactForm  :contact="contact"  @create:contact="createCt"/>
 </template>
 <script>
